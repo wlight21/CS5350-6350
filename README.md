@@ -1,0 +1,1 @@
+This is a machine learning library developed by Wyatt Light for CS6350/5350 in University of Utah
