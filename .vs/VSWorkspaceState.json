@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\DecisionTree"
   ],
-  "SelectedNode": "\\Decision Tree",
+  "SelectedNode": "\\DecisionTree\\DecisionTree.py",
   "PreviewInSolutionExplorer": false
 }
