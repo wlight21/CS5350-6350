@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\DecisionTree"
+    "\\DecisionTree",
+    "\\DecisionTree\\Data"
   ],
-  "SelectedNode": "\\DecisionTree\\DecisionTree.py",
+  "SelectedNode": "\\DecisionTree\\Data\\data-desc.txt",
   "PreviewInSolutionExplorer": false
 }
